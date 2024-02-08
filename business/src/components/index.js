@@ -2,6 +2,7 @@ import Billing from "./Billing";
 import Business from "./Business";
 import Button from "./Button";
 import CardDeal from "./CardDeal";
+import Clients from "./Clients";
 import CTA from "./CTA";
 import FeedbackCard from "./FeedbackCard";
 import Footer from "./Footer";
@@ -16,6 +17,7 @@ export {
     Business,
     Button,
     CardDeal,
+    Clients,
     CTA,
     FeedbackCard,
     Footer,
